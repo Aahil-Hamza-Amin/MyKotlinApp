@@ -2,15 +2,15 @@ fun main() {
     println(".........Logical And Operator..........")
 // Logical And Operator => Combine two expressions returns true or false
 // Returns true when both are true and goes to second expression if first is true otherwise false and its called shortCircuitEvaluation
-//    val isActive = true
-//    val score = 100
-//    val intervalSpeed = 5000
-//
-//    if (isActive && score == 100 && intervalSpeed == 5000) {
-//        println("You are at the next level.")
-//    } else {
-//        println("You are at the same level.")
-//    }
+    val isActive = true
+    val score = 100
+    val intervalSpeed = 5000
+
+    if (isActive && score == 100 && intervalSpeed == 5000) {
+        println("You are at the next level.")
+    } else {
+        println("You are at the same level.")
+    }
 
     println(".........Logical Or Operator..........")
 //  Logical Or Operator => returns true if one expression is true or both are true otherwise false i both are false
