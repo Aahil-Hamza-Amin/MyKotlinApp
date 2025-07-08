@@ -28,5 +28,3 @@ fun showMessage(){
 // Functions are chunks of code or reusable, named block of organized, related clean code that perform specific Actions/Tasks
 // Accepts Inputs(Parameters), process them, and returns an output(result value)
 // We can break larger tasks into smaller One's to make them reusable by calling them
-
-
